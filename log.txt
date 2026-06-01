@@ -48,8 +48,7 @@ Kāraka reasoning layer working on all 4 test pairs.
 Warfarin+Aspirin → FLAGGED + full explanation ✅
 Aspirin+Ibuprofen → FLAGGED + COX pathway explanation ✅
 Warfarin+Heparin → FLAGGED + anticoagulant explanation ✅
-This is the signature feature. No competitor does this.
-3 days left before Kedarnath.
+This is the signature feature
 Next: basic user input + clean up all code into one file.
 
 Day 8 — Done
@@ -57,5 +56,3 @@ shield.py created — SutraRx Shield v0.1 complete.
 User types two drug names → full Kāraka analysis output.
 Interactive. Explainable. Ethical.
 This is the product.
-2 days left before Kedarnath.
-Tomorrow: GitHub.
